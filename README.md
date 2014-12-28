@@ -1,4 +1,4 @@
-bereal.mc.test
-==============
+bereal.mc.generic
+=================
 
 test minecraft mod
